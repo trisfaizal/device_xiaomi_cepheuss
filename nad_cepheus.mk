@@ -27,6 +27,9 @@ $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 # Boot animation
 TARGET_BOOT_ANIMATION_RES := 1080
 
+# More stuff
+USE_PIXEL_CHARGING := true
+
 # Device identifier
 PRODUCT_NAME := nad_cepheus
 PRODUCT_DEVICE := cepheus
