@@ -29,6 +29,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 
 # More stuff
 USE_PIXEL_CHARGING := true
+TARGET_FOD_ANIMATIONS := true
 
 # Device identifier
 PRODUCT_NAME := nad_cepheus
